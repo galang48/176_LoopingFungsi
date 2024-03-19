@@ -11,5 +11,12 @@ int main() {
     }
 
     cout << "Nilai i Terakhir : " << i << endl;
+
+    for (i = 0; i < 5; i++) {
+        cout << "Masukan Nilai index ke-" << i << " :";
+        cin >> arr[i];
+
+
+    }
 }
 
