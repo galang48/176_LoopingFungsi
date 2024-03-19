@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Looping", "Looping\Looping.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WhileLoop", "WhileLoop\WhileLoop.vcxproj", "{EBB33FF6-5CD4-437E-BF41-A140677ACAB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoWhile", "DoWhile\DoWhile.vcxproj", "{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{EBB33FF6-5CD4-437E-BF41-A140677ACAB6}.Release|x64.Build.0 = Release|x64
 		{EBB33FF6-5CD4-437E-BF41-A140677ACAB6}.Release|x86.ActiveCfg = Release|Win32
 		{EBB33FF6-5CD4-437E-BF41-A140677ACAB6}.Release|x86.Build.0 = Release|Win32
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Debug|x64.ActiveCfg = Debug|x64
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Debug|x64.Build.0 = Debug|x64
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Debug|x86.Build.0 = Debug|Win32
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Release|x64.ActiveCfg = Release|x64
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Release|x64.Build.0 = Release|x64
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Release|x86.ActiveCfg = Release|Win32
+		{B01EE101-3BC4-4FDD-91E1-5777F18BDF4E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
