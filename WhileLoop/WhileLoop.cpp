@@ -7,7 +7,17 @@ int main()
     int x;
     srand(time(0));
 
-    x = rand() %
+    x = rand() % 10;
+
+    cout << "Nilai X Awal : " << x << endl;
+
+    while (x > 4)
+    {
+        cout << "Perulangan While" << endl;
+        x = rand() % 10;
+
+        cout << "Nilai X : " << x << endl;
+    }
 }
 
 
